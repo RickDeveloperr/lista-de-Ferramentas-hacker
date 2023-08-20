@@ -26,7 +26,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 > * ![Lista de Recursos de Teste de Penetração](https://media.discordapp.net/attachments/1105889680827875446/1134868579406319686/rick.png?width=1020&height=204)
 
-#### 💠[CyberStorm](https://discord.gg/aHrutK86xH) Entre para nossa comunidade no discord.
+#### 💠[CyberStorm](https://discord.gg/cyberstorm) Entre para nossa comunidade no discord.
 
 
 ##  [Lista de Recursos de Teste de Penetração](https://freesoff.com/t/big-list-of-penetration-testing-resources/30096)
